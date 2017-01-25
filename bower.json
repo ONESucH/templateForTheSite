@@ -1,0 +1,25 @@
+{
+  "name": "newportfolio",
+  "authors": [
+    "Onesuch <experts1994@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "wow": "^1.1.2"
+  }
+}
